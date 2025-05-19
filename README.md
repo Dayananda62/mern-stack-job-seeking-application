@@ -2,6 +2,7 @@ This is a Full Stack Job Portal built using the MERN stack (MongoDB, Express.js,
 
 🔍 A modern job-seeking platform where users can explore opportunities, apply for jobs, and manage their profile — all in one place.
 
+
 🛠️ Tech Stack
 
 MongoDB	- Database for storing users and jobs
@@ -18,6 +19,7 @@ JWT & Bcrypt	- Authentication & password security
 
 Axios	- Frontend-backend API communication
 
+
 ✨ Features
 
 👤 User Features:
@@ -29,6 +31,7 @@ View job listings
 Apply for jobs
 
 Application history
+
 
 🏢 Employer Features:
 
