@@ -1,6 +1,5 @@
 This is a Full Stack Job Portal built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows job seekers to browse and apply for jobs, and employers to post and manage job listings.
 
-🔍 A modern job-seeking platform where users can explore opportunities, apply for jobs, and manage their profile — all in one place.
 
 
 🛠️ Tech Stack
